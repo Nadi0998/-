@@ -13,4 +13,3 @@ for i in field(goods, 'price', 'title'):
     print(i)
 for i in gen_random(1, 3, 5):
     print(i, end = ', ')
-#print(goods)

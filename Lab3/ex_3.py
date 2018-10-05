@@ -1,16 +1,7 @@
 #!/usr/bin/env python3
 import math
-
 data = [4, -30, 100, -100, 123, 1, 0, -1, -4]
 # Реализация задания 3
-# while i < len(items)-1:
-#         if(math.fabs(items[i])> math.fabs(items[i+1])):
-#             a = items[i]
-#             print(a)
-#             items[i] = items[i+1]
-#             items[i+1] = a
-#             i +=1
-
 def sorted(items):
     n = 1
     while n < len(items):

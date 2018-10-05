@@ -36,8 +36,19 @@
 # 1
 # 2
 def print_result(func):
-    def decor():
+    def decor(*args, **kwargs):
         print(func.__name__)
-        print(func(), end='')
+        result = func(*args, **kwargs)
+        if isinstance(result, dict):
+            for k, v in result.items():
+                print(k, '=', v)
+        elif isinstance(result, list):
+            for i in result:
+                print(i)
+        elif isinstance(result, (str, int)):
+            print(result)
+        else:
+            pass
+        return result
         return func()
-    return decor()
+    return decor
