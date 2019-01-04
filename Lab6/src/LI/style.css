@@ -1,0 +1,10 @@
+.list-item {
+    width: 10%;
+    display: block;
+    color: darkgreen;
+    background: honeydew;
+    margin: 10px;
+    padding: 2px;
+    padding-left: 30px;
+    border: 10px double lightblue;
+}

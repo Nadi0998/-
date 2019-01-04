@@ -1,0 +1,12 @@
+button {
+    background: #ba2013;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 3px;
+    margin-top: 10px;
+    outline: none;
+}
+div {
+    background: rgba(58, 255, 58, 0.24);
+}
