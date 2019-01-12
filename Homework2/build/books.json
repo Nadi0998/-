@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "title": "Букет из тюльпанов",
+    "author": "Тюльпаны",
+    "image":
+      "https://byketi.ru/upload/resize_cache/iblock/ff1/800_800_1/ff156ac714b437a42018e8fded5ed69d.jpg",
+    "price": 1500,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "Каробка с розами",
+    "author": "Розы",
+    "image":
+      "https://byketi.ru/upload/resize_cache/iblock/107/800_800_1/1074102218e7a7947ebbad33b9f884d4.jpg",
+    "price": 4150,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Рафаэлло",
+    "author": "микс",
+    "image":
+      "https://byketi.ru/upload/resize_cache/iblock/c20/800_800_1/c2051c7e0e7c672a018c262a11c6f4e6.jpg",
+    "price": 3560,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "Каробка с тюльпанами",
+    "author": "Тюльпаны",
+    "image":
+      "https://byketi.ru/upload/resize_cache/iblock/ab9/800_800_1/ab93a07b44115deea53f91c9b248656f.jpg",
+    "price": 3400,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Презент",
+    "author": "Розы",
+    "image":
+      "https://byketi.ru/upload/resize_cache/iblock/26f/800_800_1/26f018f7d9ba86071e5133a11452e38b.jpg",
+    "price": 3170,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "Осенний букет",
+    "author": "микс",
+    "image":
+      "https://byketi.ru/upload/resize_cache/iblock/593/800_800_1/593514a3a891cf3a71f66420babe0e97.jpg",
+    "price": 2540,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title":
+      "Букет Круиз",
+    "author": "микс",
+    "image":
+      "https://byketi.ru/upload/resize_cache/iblock/368/800_800_1/36895fe45a9f1bbf4b7ba64318583954.jpg",
+    "price": 1570,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "Мон Амур",
+    "author": "микс",
+    "image": "https://byketi.ru/upload/resize_cache/iblock/66b/800_800_1/66b0fed7ddeb696f7b79485e383dbc78.jpg",
+    "price": 2460,
+    "rating": 0
+  },
+    {
+    "id": 8,
+    "title": "Амур",
+    "author": "микс",
+    "image": "https://byketi.ru/upload/resize_cache/iblock/66b/800_800_1/66b0fed7ddeb696f7b79485e383dbc78.jpg",
+    "price": 2460,
+    "rating": 0
+  }
+]
